@@ -1,0 +1,11 @@
+# Credentials
+*.json
+.env
+
+# Data
+data/raw/
+data/full/
+
+# Airflow
+logs/
+__pycache__/
